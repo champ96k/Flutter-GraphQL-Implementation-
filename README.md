@@ -1,4 +1,4 @@
-# graphql Implementation
+# Graphql Implementation
 
    GraphQL is a query language in which we send the query to the GraphQL Server. 
    The server executes the query at runtime for fulfilling those queries with your existing data.
