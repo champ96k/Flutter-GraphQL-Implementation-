@@ -2,6 +2,8 @@
 
    GraphQL is a query language in which we send the query to the GraphQL Server. 
    The server executes the query at runtime for fulfilling those queries with your existing data.
+   
+   ## API [Countries Trevorblades](https://countries.trevorblades.com/)
   
    First, we create a GraphQL Client and that client will talk to the GraphQL server we just to notify the client about the GraphQL Query.
    
